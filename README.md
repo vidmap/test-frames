@@ -1,2 +1,2 @@
 # test-frames
-picture frames for testing purposes
+frames from video clips for testing purposes on opensfm
